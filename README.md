@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prakhar Singh</h1>
-<h3 align="center">A passionate android and backend developer from India</h3>
+<h1 align="center">Hi 👋 I'm Prakhar Singh</h1>
+<h3 align="center">A passionate Android and Spring developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingoclock&label=Profile%20views&color=0e75b6&style=flat" alt="codingoclock" /> </p>
 
