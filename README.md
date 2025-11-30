@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋 I'm Prakhar Singh</h1>
-<h3 align="center">A programmer for passion with interests in Spring, Swift and Python</h3>
+<h1 align="center">👋 Hey there, I'm <strong>Prakhar Singh</strong>
+</h1>
+<h3 align="center">⚡ Coder by passion — building with Spring, crafting in Swift, and creating in Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingoclock&label=Profile%20views&color=0e75b6&style=flat" alt="codingoclock" /> </p>
 
