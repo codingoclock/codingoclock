@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm <strong>Prakhar Singh</strong>
 </h1>
-<h3 align="center">⚡ Coder by passion — building with Spring, crafting in Swift, and creating in Python.</h3>
+<h3 align="center">⚡ Coder by passion — building with Python, crafting in AI, and creating in ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingoclock&label=Profile%20views&color=0e75b6&style=flat" alt="codingoclock" /> </p>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/justprakhar7890" target="blank"><img src="https://img.shields.io/twitter/follow/justprakhar7890?logo=twitter&style=for-the-badge" alt="justprakhar7890" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot, Kotlin**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
 - 📫 How to reach me **justprakharsingh@gmail.com**
 
